@@ -7,8 +7,4 @@
 *.user
 *.opendb
 *.pdb
-src/Release/*
-src/Debug/*
-sample/*.exe
-sample/*.dll
-sample/*.lib
+.vs
